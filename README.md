@@ -1,4 +1,4 @@
-# airatm
+# airatm - RU Hacks 2018
 
 ## Presented by Jason Chu, Kyle Li, Matthew Yuen, and David Zhou
 
